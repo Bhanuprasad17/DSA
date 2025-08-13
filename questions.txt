@@ -1,0 +1,42 @@
+Basic Level :
+
+1.Reverse a string 
+2.Check if a string is a palindrome
+3.Remove all vowels from a string
+4.Count the number of vowels, consonants, digits, and special characters 
+5.Find the most frequent character in a string
+6.Check if two strings are anagrams 
+7.Convert a string to title case (capitalize each word)
+8.Remove duplicate characters from a string
+9.Count the number of words in a string
+10.Check if a string contains only digits
+
+Intermediate Level :
+
+11.Find the first non-repeating character
+12.Find all substrings of a string
+13.Check if two strings are rotations of each other
+14.Compress a string using character counts (e.g., aabbb → a2b3)
+15.Replace all spaces in a string with %20
+16.Check if a string has all unique characters
+17.Check if one string is a subsequence of another
+18.Count and print all duplicate characters
+19.Sort a string in alphabetical order
+20.Swap the case of each character in a string
+
+Advanced Level :
+
+21.Find the longest palindrome substring
+22.Implement strstr() function (return index of first occurrence of substring)
+23.Longest common prefix among an array of strings
+24.Find all permutations of a string
+25.Minimum number of insertions to make a string palindrome
+26.Zigzag Conversion (like in Leetcode 6)
+27.Group anagrams from a list of strings
+28.Validate if a string is a valid IPv4 address
+29.Check if string can be split into palindrome partitions
+30.Find the longest common subsequence of two strings
+
+
+
+1.Find th index of the first occurrence in a strin Leetcode problem 28
