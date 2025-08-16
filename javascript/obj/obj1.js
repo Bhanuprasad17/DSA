@@ -108,12 +108,12 @@ const user = {
 
 // console.log(user)
 
-// const strObj = JSON.stringify(user)
+const strObj = JSON.stringify(user)
 // console.log(JSON.stringify(user))
-// console.log(strObj)
+console.log(strObj)
 // console.log(JSON.parse(strObj))
 
-const strObj = JSON.stringify(user)
+// const strObj = JSON.stringify(user)
 
 // localStorage.setItem('test',strObj)
 
